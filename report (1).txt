@@ -1,0 +1,84 @@
+CPN Tools state space report for:
+/cygdrive/C/Users/Rafae/Desktop/Projeto_Ester.cpn
+Report generated: Wed Sep 22 22:10:56 2021
+
+
+ Statistics
+------------------------------------------------------------------------
+
+  State Space
+     Nodes:  10
+     Arcs:   10
+     Secs:   0
+     Status: Full
+
+  Scc Graph
+     Nodes:  10
+     Arcs:   10
+     Secs:   0
+
+
+ Boundedness Properties
+------------------------------------------------------------------------
+
+  Best Integer Bounds
+                             Upper      Lower
+     New_Page'P0 1           1          0
+     New_Page'P1 1           1          0
+     New_Page'P2 1           1          0
+     New_Page'P3 1           1          0
+     New_Page'P4 1           1          0
+     New_Page'P5 1           1          0
+     New_Page'P6 1           1          0
+     New_Page'P7 1           1          0
+     New_Page'P8 1           1          0
+     New_Page'P9 1           1          0
+
+  Best Upper Multi-set Bounds
+     New_Page'P0 1       1`"player"
+     New_Page'P1 1       1`"player"
+     New_Page'P2 1       1`"player"
+     New_Page'P3 1       1`"player"
+     New_Page'P4 1       1`"player"
+     New_Page'P5 1       1`"player"
+     New_Page'P6 1       1`"player"
+     New_Page'P7 1       1`"player"
+     New_Page'P8 1       1`"player"
+     New_Page'P9 1       1`"player"
+
+  Best Lower Multi-set Bounds
+     New_Page'P0 1       empty
+     New_Page'P1 1       empty
+     New_Page'P2 1       empty
+     New_Page'P3 1       empty
+     New_Page'P4 1       empty
+     New_Page'P5 1       empty
+     New_Page'P6 1       empty
+     New_Page'P7 1       empty
+     New_Page'P8 1       empty
+     New_Page'P9 1       empty
+
+
+ Home Properties
+------------------------------------------------------------------------
+
+  Home Markings
+     [10]
+
+
+ Liveness Properties
+------------------------------------------------------------------------
+
+  Dead Markings
+     [10]
+
+  Dead Transition Instances
+     None
+
+  Live Transition Instances
+     None
+
+
+ Fairness Properties
+------------------------------------------------------------------------
+     No infinite occurrence sequences.

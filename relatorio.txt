@@ -1,0 +1,191 @@
+CPN Tools state space report for:
+/cygdrive/C/Users/Rafae/Desktop/Projeto_Ester.cpn
+Report generated: Thu Sep 23 01:30:36 2021
+
+
+ Statistics
+------------------------------------------------------------------------
+
+  State Space
+     Nodes:  10
+     Arcs:   10
+     Secs:   0
+     Status: Full
+
+  Scc Graph
+     Nodes:  1
+     Arcs:   0
+     Secs:   0
+
+
+ Boundedness Properties
+------------------------------------------------------------------------
+
+  Best Integer Bounds
+                             Upper      Lower
+     New_Page'Arvore_de_desempenho_da_plataforma 1
+                             1          0
+     New_Page'Big_teste 1    1          0
+     New_Page'Fim_de_modulo 1
+                             1          0
+     New_Page'P0 1           0          0
+     New_Page'P1 1           0          0
+     New_Page'P2 1           0          0
+     New_Page'P3 1           0          0
+     New_Page'P4 1           0          0
+     New_Page'P5 1           0          0
+     New_Page'P6 1           0          0
+     New_Page'P7 1           0          0
+     New_Page'P8 1           0          0
+     New_Page'P9 1           0          0
+     New_Page'Topico_10 1    1          0
+     New_Page'Topico_1 1     1          0
+     New_Page'Topico_11 1    1          0
+     New_Page'Topico_12 1    1          0
+     New_Page'Topico_13 1    1          0
+     New_Page'Topico_2 1     1          0
+     New_Page'Topico_3 1     1          0
+     New_Page'Topico_4 1     1          0
+     New_Page'Topico_5 1     1          0
+     New_Page'Topico_6 1     1          0
+     New_Page'Topico_7 1     1          0
+     New_Page'Topico_8 1     1          0
+     New_Page'Topico_9 1     1          0
+
+  Best Upper Multi-set Bounds
+     New_Page'Arvore_de_desempenho_da_plataforma 1
+                         1`"player"
+     New_Page'Big_teste 1
+                         1`"player"
+     New_Page'Fim_de_modulo 1
+                         1`"player"
+     New_Page'P0 1       empty
+     New_Page'P1 1       empty
+     New_Page'P2 1       empty
+     New_Page'P3 1       empty
+     New_Page'P4 1       empty
+     New_Page'P5 1       empty
+     New_Page'P6 1       empty
+     New_Page'P7 1       empty
+     New_Page'P8 1       empty
+     New_Page'P9 1       empty
+     New_Page'Topico_10 1
+                         1`"player"
+     New_Page'Topico_1 1 1`"player"
+     New_Page'Topico_11 1
+                         1`"player"
+     New_Page'Topico_12 1
+                         1`"player"
+     New_Page'Topico_13 1
+                         1`"player"
+     New_Page'Topico_2 1 1`"player"
+     New_Page'Topico_3 1 1`"player"
+     New_Page'Topico_4 1 1`"player"
+     New_Page'Topico_5 1 1`"player"
+     New_Page'Topico_6 1 1`"player"
+     New_Page'Topico_7 1 1`"player"
+     New_Page'Topico_8 1 1`"player"
+     New_Page'Topico_9 1 1`"player"
+
+  Best Lower Multi-set Bounds
+     New_Page'Arvore_de_desempenho_da_plataforma 1
+                         empty
+     New_Page'Big_teste 1
+                         empty
+     New_Page'Fim_de_modulo 1
+                         empty
+     New_Page'P0 1       empty
+     New_Page'P1 1       empty
+     New_Page'P2 1       empty
+     New_Page'P3 1       empty
+     New_Page'P4 1       empty
+     New_Page'P5 1       empty
+     New_Page'P6 1       empty
+     New_Page'P7 1       empty
+     New_Page'P8 1       empty
+     New_Page'P9 1       empty
+     New_Page'Topico_10 1
+                         empty
+     New_Page'Topico_1 1 empty
+     New_Page'Topico_11 1
+                         empty
+     New_Page'Topico_12 1
+                         empty
+     New_Page'Topico_13 1
+                         empty
+     New_Page'Topico_2 1 empty
+     New_Page'Topico_3 1 empty
+     New_Page'Topico_4 1 empty
+     New_Page'Topico_5 1 empty
+     New_Page'Topico_6 1 empty
+     New_Page'Topico_7 1 empty
+     New_Page'Topico_8 1 empty
+     New_Page'Topico_9 1 empty
+
+
+ Home Properties
+------------------------------------------------------------------------
+
+  Home Markings
+     All
+
+
+ Liveness Properties
+------------------------------------------------------------------------
+
+  Dead Markings
+     None
+
+  Dead Transition Instances
+     New_Page'Conquistar_um_dia_de_ofensiva 1
+     New_Page'Conquistar_uma_coroa 1
+     New_Page'Definir_meta_diaria 1
+     New_Page'Fork 1
+     New_Page'Ir_para_proxima_licao 1
+     New_Page'Join 1
+     New_Page'Responder10_questoes 1
+     New_Page'Responder_2_questoes_bonus 1
+
+  Live Transition Instances
+     New_Page'Acertar_78 1
+     New_Page'Completar_1 1
+     New_Page'Completar_metade_dos_topicos_9_e_10 1
+     New_Page'Completar_um_terco_dos_topicos_4_e_5 1
+     New_Page'Inicio_da_plataforma 1
+     New_Page'Proximo_modulo 1
+     New_Page'Responder_completamente 1
+     New_Page'Responder_completamente_ambos 1
+     New_Page'Responder_completamente_os_3_modulos 1
+     New_Page'um_terco_dos_topicos_2_e_3_concluidos 1
+
+
+ Fairness Properties
+------------------------------------------------------------------------
+
+  Impartial Transition Instances
+     New_Page'Acertar_78 1
+     New_Page'Completar_1 1
+     New_Page'Completar_metade_dos_topicos_9_e_10 1
+     New_Page'Completar_um_terco_dos_topicos_4_e_5 1
+     New_Page'Inicio_da_plataforma 1
+     New_Page'Proximo_modulo 1
+     New_Page'Responder_completamente 1
+     New_Page'Responder_completamente_ambos 1
+     New_Page'Responder_completamente_os_3_modulos 1
+     New_Page'um_terco_dos_topicos_2_e_3_concluidos 1
+
+  Fair Transition Instances
+     New_Page'Conquistar_um_dia_de_ofensiva 1
+     New_Page'Conquistar_uma_coroa 1
+     New_Page'Definir_meta_diaria 1
+     New_Page'Fork 1
+     New_Page'Ir_para_proxima_licao 1
+     New_Page'Join 1
+     New_Page'Responder10_questoes 1
+     New_Page'Responder_2_questoes_bonus 1
+
+  Just Transition Instances
+     None
+
+  Transition Instances with No Fairness
+     None

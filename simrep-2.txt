@@ -1,0 +1,12 @@
+CPN Tools simulation report for:
+/cygdrive/C/Users/Rafae/Desktop/Projeto_Ester.cpn
+Report generated: Wed Sep 22 22:04:48 2021
+
+1	0	Definir_meta_diaria @ (1:New_Page)
+2	0	Fork @ (1:New_Page)
+3	0	Responder_2_questoes_bonus @ (1:New_Page)
+4	0	Responder10_questoes @ (1:New_Page)
+5	0	Join @ (1:New_Page)
+6	0	Conquistar_um_dia_de_ofensiva @ (1:New_Page)
+7	0	Conquistar_uma_coroa @ (1:New_Page)
+8	0	Ir_para_proxima_licao @ (1:New_Page)

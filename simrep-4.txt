@@ -1,0 +1,24 @@
+CPN Tools simulation report for:
+/cygdrive/C/Users/Rafae/Desktop/Projeto_Ester.cpn
+Report generated: Thu Sep 23 01:32:41 2021
+
+1	0	Inicio_da_plataforma @ (1:New_Page)
+ - p = "player"
+2	0	Completar_1 @ (1:New_Page)
+ - p = "player"
+3	0	um_terco_dos_topicos_2_e_3_concluidos @ (1:New_Page)
+ - p = "player"
+4	0	Completar_um_terco_dos_topicos_4_e_5 @ (1:New_Page)
+ - p = "player"
+5	0	Responder_completamente_os_3_modulos @ (1:New_Page)
+ - p = "player"
+6	0	Completar_metade_dos_topicos_9_e_10 @ (1:New_Page)
+ - p = "player"
+7	0	Responder_completamente @ (1:New_Page)
+ - p = "player"
+8	0	Responder_completamente_ambos @ (1:New_Page)
+ - p = "player"
+9	0	Acertar_78 @ (1:New_Page)
+ - p = "player"
+10	0	Proximo_modulo @ (1:New_Page)
+ - p = "player"
